@@ -8,6 +8,6 @@ const contentCard = 'Cuối cùng thì chúng ta cũng đã bước qua 7 tháng
 // Cần hỗ trợ hãy liên hệ: 
 // Mr-Nam http://facebook.com/nam.nodemy
 // Các bạn muốn học lập trình thì tham gia Nhóm zalo tự học lập trình nhé: https://zalo.me/g/yhdkef092
-const giftImage = 'hotgirl.png';
+const giftImage = 'hotgirl.jpg';
 const base64 = '';
 const giftImageBase64 = "data:image/png;base64, " + base64;
